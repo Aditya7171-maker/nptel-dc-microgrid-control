@@ -23,7 +23,7 @@
 ---
 
 ## 🧠 Learnings & Insights
-_Add what you understood, not what was taught. That’s how recruiters and mentors know you’re legit._
+
 
 ---
 
